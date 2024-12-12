@@ -79,6 +79,7 @@ function LoginPage() {
         Login
       </button>
       <Link href="/signup">Visit Signup Page</Link>
+      <span>Visit Our New Project</span>
     </div>
   );
 }
